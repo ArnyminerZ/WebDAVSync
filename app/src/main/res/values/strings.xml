@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WebDAV Sync</string>
+
+    <string name="title_add_server">Add Server</string>
+
+    <string name="image_desc_back">Go Back</string>
+
+    <string name="add_server_host_label">Hostname</string>
+    <string name="add_server_host_help">Introduce the server\'s name. Exclude any protocol, additional slashes…</string>
+    <string name="add_server_host_placeholder">example.com</string>
+    <string name="add_server_ssl">Enable SSL (https)</string>
+    <string name="add_server_auth">Enable Authentication</string>
+    <string name="add_server_username">Username</string>
+    <string name="add_server_password">Password</string>
+    <string name="add_server_add_server">Add Server</string>
+</resources>
